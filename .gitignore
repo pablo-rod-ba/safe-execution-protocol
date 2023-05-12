@@ -1,0 +1,4 @@
+server/*release
+client/*release
+server/*debug
+client/*debug
